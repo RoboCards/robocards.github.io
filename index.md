@@ -23,7 +23,7 @@ a link to a .zip file with helpful information about building the Robot.
 helpful for the robot build team. It includes important information about the drive train, which is our first
 order of business.
 
-* [Control System](http://www.firstinspires.org/node/5076). This is the documentation for programming the robot.
+* [Control System](http://wpilib.screenstepslive.com/s/4485). This is the documentation for programming the robot.
 
 * [Question and Answer System](https://frc-qa.firstinspires.org/). This is where to go to ask questions and get
 answers.
