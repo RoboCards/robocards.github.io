@@ -16,8 +16,8 @@
 title: RoboCards Web Site
 email: ptotleben@youngstowndiocese.org
 description: > # this means to ignore newlines until "baseurl:"
-	This is the project website for the RoboCards Robotics team at Cardinal Mooney High School.
-	We will be moving to more permanent (and better-looking) quarters shortly . . . 
+   This is the project website for the RoboCards Robotics team at Cardinal Mooney High School.
+   We will be moving to more permanent (and better-looking) quarters shortly . . . 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brpetertotleben
