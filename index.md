@@ -50,6 +50,9 @@ for our competition in three days. Good for ideas. They have a companion [websit
 * [FRC GameSense](https://www.youtube.com/user/FRCGameSense/videos). This is a discussion show where people talk about
 the Robot that we are supposed to be building.
 
+* [AndyMark Youtube Channel](https://www.youtube.com/user/AndyMarkTube/videos). This is the Youtube Channel for
+AndyMark, a major parts supplier for our robot.
+
 
 Field Drawings
 --------------
@@ -73,3 +76,10 @@ Social Media
 * [E-mail Blasts](http://www.firstinspires.org/resource-library/frc/email-blast-archive)
 
 * [Blog](http://www.firstinspires.org/robotics/frc/blog/)
+
+
+Software Reference
+------------------
+
+* [WPILib Suite](https://github.com/wpilibsuite). The official repositories of the WPILib Suite, a robotics software
+    library used in the FIRST Robotics Competition
